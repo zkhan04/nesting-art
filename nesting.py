@@ -3,7 +3,7 @@ from tkinter import *
 from tkinter import ttk
 
 window = Tk()
-window.title("the fungus")
+window.title("end result")
 w = Canvas(window, bg="blue", height=800, width=800)
 
 def sin(theta):
